@@ -1,0 +1,6 @@
+kafka-python
+boto3
+pandas
+pyarrow
+python-dateutil
+requests
